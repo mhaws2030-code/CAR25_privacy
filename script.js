@@ -54,11 +54,11 @@
 
       sidebar_support_title: "Need immediate help?",
       sidebar_support_desc: "Our dedicated support team is available 24/7 to assist with your requests.",
-      sidebar_support_email: "support@car25.app",
+      sidebar_support_email: "mh.data2020@gmail.com",
 
       // Delete Account Section Content
       del_card1_title: "Google Play Account Deletion Commitment",
-      del_card1_p1: "At <strong>Car25</strong> (developed by CodeB), we respect your right to privacy and digital independence. As required by Google Play Store Developer Guidelines, this dedicated web page enables any registered user or former user to request account and data deletion without needing to access the mobile application.",
+      del_card1_p1: "At <strong>Car25</strong> (developed by CodeB), we respect your right to privacy and digital independence. As required by Google Play Store Developer Guidelines, you can delete your account directly using the built-in button inside the mobile app, or via this dedicated web page if you no longer have access to the app.",
       del_card1_callout: "Google Play Policy Notice: All personal identifying information, credentials, and associated profiles are permanently wiped within 14 to 30 days upon identity verification.",
 
       del_card2_title: "What Happens to Your Data",
@@ -74,13 +74,13 @@
       del_item_legal: "Dispute and warranty settlement records (retained until legal limitation periods expire)",
       del_item_anon: "Fully anonymized telemetry and aggregated analytics without personal identifiers",
 
-      del_card3_title: "Method 1: Delete Directly from Inside the Car25 App",
-      del_step1_title: "Open Profile",
-      del_step1_desc: "Open the Car25 mobile application and tap on the 'Profile' / 'Menu' tab in the bottom bar.",
-      del_step2_title: "Select Settings",
-      del_step2_desc: "Scroll down to 'Account Settings' and tap 'Delete Account'.",
+      del_card3_title: "Method 1: Direct In-App Button (Mobile App)",
+      del_step1_title: "Open Menu Screen",
+      del_step1_desc: "Launch the Car25 mobile app and select the 'Menu' screen from the navigation options.",
+      del_step2_title: "Tap 'Delete Account' Button",
+      del_step2_desc: "Locate and tap the red 'Delete Account' button (with the trash icon) in the menu list.",
       del_step3_title: "Confirm Deletion",
-      del_step3_desc: "Read the warning prompt and confirm your intent to delete your account.",
+      del_step3_desc: "Confirm your deletion request in the confirmation popup dialog to submit your request directly.",
 
       del_card4_title: "Method 2: Submit a Web Deletion Request",
       del_card4_desc: "If you uninstalled the application or cannot access your phone, submit the official form below. Our privacy desk will process your request directly.",
@@ -96,7 +96,7 @@
       form_confirm_checkbox: "I understand that this action is irreversible and will permanently delete my account and associated data per the retention policy.",
       form_btn_submit: "Generate Deletion Ticket & Email",
       form_btn_copy: "Copy Request to Clipboard",
-      form_success_msg: "Deletion request generated successfully! A reference ticket has been created. Please click below to send via your email client or paste it to support@car25.app.",
+      form_success_msg: "Deletion request generated successfully! A reference ticket has been created. Please click below to send via your email client or paste it to mh.data2020@gmail.com.",
 
       del_faq_title: "Frequently Asked Questions",
       faq1_q: "How long does account deletion take?",
@@ -149,14 +149,14 @@
       priv_sec6_p: "We retain personal data as long as your account remains active. If you request account closure or data deletion, records are purged in accordance with our deletion timeline, except records mandated by commercial accounting and tax laws.",
 
       priv_sec7_title: "7. User Rights & Data Deletion",
-      priv_sec7_p: "Under international privacy standards (GDPR, Google Play Guidelines, regional data protection laws), you have the right to access, rectify, port, or erase your personal information. To request account deletion, visit our <a href=\"?mode=delete_account\" class=\"inline-link\">Account Deletion Portal</a>.",
+      priv_sec7_p: "Under international privacy standards (GDPR, Google Play Guidelines, regional data protection laws), you have the right to access, rectify, port, or erase your personal information. You can delete your account directly inside the Car25 mobile application under the Menu screen, or visit our <a href=\"?mode=delete_account\" class=\"inline-link\">Account Deletion Portal</a>.",
 
       priv_sec8_title: "8. Children's Privacy",
       priv_sec8_p: "Car25 does not sell automotive products to or knowingly collect personal information from individuals under the age of 18 (or 13 depending on jurisdiction). If you believe a minor has registered an account, contact us immediately for prompt deletion.",
 
       priv_sec9_title: "9. Contact Us & Data Protection Officer",
       priv_sec9_p: "If you have questions, inquiries, or feedback regarding our privacy practices or data rights, please reach out to us:",
-      priv_contact_email: "Email: support@car25.app / privacy@car25.app",
+      priv_contact_email: "Email: mh.data2020@gmail.com",
       priv_contact_app: "Application: Car25 for Android (Google Play Store)",
       priv_contact_dev: "Developer: CodeB Team",
 
@@ -221,11 +221,11 @@
 
       sidebar_support_title: "هل تحتاج لمساعدة فورية؟",
       sidebar_support_desc: "فريق الدعم الفني متواجد لمساعدتك في إتمام طلباتك.",
-      sidebar_support_email: "support@car25.app",
+      sidebar_support_email: "mh.data2020@gmail.com",
 
       // Delete Account Section Content
-      del_card1_title: "التزامنا بسياسة حذف الحسابات في Google Play",
-      del_card1_p1: "في تطبيق <strong>Car25</strong> (المطور بواسطة CodeB)، نحرص على حماية خصوصيتك واستقلالية بياناتك. وفقاً لمتطلبات متجر Google Play، تتيح هذه الصفحة المخصصة لأي مستخدم مسجل طلب حذف حسابه وكافة بياناته الشخصية عبر الويب مباشرة دون الحاجة للدخول للتطبيق أو إعادة تثبيته.",
+      del_card1_title: "الالتزام بسياسة حذف الحسابات في Google Play",
+      del_card1_p1: "في تطبيق <strong>Car25</strong> (المطور بواسطة CodeB)، نتيح للمستخدمين حذف حساباتهم مباشرة من داخل التطبيق عبر الزر المخصص لذلك، كما نوفر هذا الرابط المباشر للويب لتمكين أي مستخدم مسجل من طلب حذف حسابه وبياناته حتى وإن لم يكن التطبيق مثبتاً لديه، وذلك التزاماً بسياسات متجر Google Play.",
       del_card1_callout: "إشعار سياسة Google Play: تُحذف جميع البيانات التعريفية والشخصية وبيانات تسجيل الدخول نهائياً في غضون 14 إلى 30 يوماً من التحقق من الطلب.",
 
       del_card2_title: "ماذا يحدث لبياناتك عند طلب الحذف؟",
@@ -241,13 +241,13 @@
       del_item_legal: "سجلات الضمان والنزاعات السابقة (تُحفظ حتى انقضاء المدة القانونية المقررة نظاماً)",
       del_item_anon: "البيانات الإحصائية العامة غير المحددة للهوية والمجمعة لتحسين أداء النظام",
 
-      del_card3_title: "الطريقة الأولى: الحذف المباشر من داخل تطبيق Car25",
-      del_step1_title: "افتح الملف الشخصي",
-      del_step1_desc: "افتح تطبيق Car25 على هاتفك واضغط على تبويب 'الملف الشخصي' أو 'القائمة' من الشريط السفلي.",
-      del_step2_title: "اختر حذف الحساب",
-      del_step2_desc: "انتقل لأسفل القائمة واضغط على خيار 'حذف الحساب' (Delete Account).",
-      del_step3_title: "تأكيد الطلب",
-      del_step3_desc: "اقرأ رسالة التحذير واضغط على زر التأكيد وسيتم رفع طلب الحذف مباشرة إلى فريق الدعم.",
+      del_card3_title: "الطريقة الأولى: الحذف المباشر عبر الزر داخل تطبيق Car25",
+      del_step1_title: "فتح شاشة القائمة (Menu)",
+      del_step1_desc: "افتح تطبيق Car25 على هاتفك وانتقل إلى شاشة 'القائمة' (Menu) من شريط التنقل السفلي.",
+      del_step2_title: "الضغط على زر 'حذف الحساب'",
+      del_step2_desc: "انزل لأسفل القائمة واضغط على زر 'حذف الحساب' (Delete account) المميز باللون الأحمر وأيقونة سلة المحذوفات.",
+      del_step3_title: "تأكيد الحذف",
+      del_step3_desc: "اقرأ رسالة التحذير واضغط على زر التأكيد وسيتم رفع طلب حذف الحساب فوراً إلى النظام.",
 
       del_card4_title: "الطريقة الثانية: تقديم طلب حذف الحساب عبر هذا الموقع",
       del_card4_desc: "في حال قمت بإلغاء تثبيت التطبيق أو واجهت صعوبة في الدخول، يمكنك تعبئة النموذج الرسمي أدناه لمعالجة طلبك فوراً من قبل فريق الخصوصية:",
@@ -263,7 +263,7 @@
       form_confirm_checkbox: "أقر بأنني على علم بأن هذا الإجراء نهائي ولا يمكن التراجع عنه وسيترتب عليه حذف حسابي وبياناتي الشخصية وفق سياسة الاحتفاظ الموضحة.",
       form_btn_submit: "إنشاء تذكرة الحذف وإرسالها عبر البريد",
       form_btn_copy: "نسخ نص الطلب للحافظة",
-      form_success_msg: "تم إنشاء طلب وتذكرة الحذف بنجاح! اضغط أدناه لإرسال الطلب تلقائياً عبر تطبيق بريدك أو إرساله إلى support@car25.app.",
+      form_success_msg: "تم إنشاء طلب وتذكرة الحذف بنجاح! اضغط أدناه لإرسال الطلب تلقائياً عبر تطبيق بريدك أو إرساله إلى mh.data2020@gmail.com.",
 
       del_faq_title: "الأسئلة الشائعة حول حذف الحساب",
       faq1_q: "كم يستغرق تنفيذ حذف الحساب؟",
@@ -316,14 +316,14 @@
       priv_sec6_p: "نحتفظ ببياناتك طالما كان حسابك نشطاً. عند طلبك حذف الحساب، يتم تطهير وحذف البيانات الشخصية وفق جدول الحذف الموضح، مع الاحتفاظ بالسجلات الضريبية والمحاسبية للفترات القانونية المفروضة نظاماً.",
 
       priv_sec7_title: "7. حقوق المستخدم وحذف البيانات",
-      priv_sec7_p: "يحق لك في أي وقت الوصول إلى بياناتك الشخصية، أو تصحيحها، أو تصديرها، أو طلب حذفها نهائياً. لتقديم طلب حذف الحساب يرجى زيارة <a href=\"?mode=delete_account\" class=\"inline-link\">بوابة طلب حذف الحساب</a>.",
+      priv_sec7_p: "يحق لك في أي وقت الوصول إلى بياناتك الشخصية، أو تصحيحها، أو تصديرها، أو طلب حذفها نهائياً. يمكنك حذف حسابك مباشرة من داخل تطبيق Car25 عبر زر 'حذف الحساب' في شاشة القائمة، أو زيارة <a href=\"?mode=delete_account\" class=\"inline-link\">بوابة طلب حذف الحساب</a>.",
 
       priv_sec8_title: "8. خصوصية الأطفال والقُصّر",
       priv_sec8_p: "تطبيق Car25 مخصص للأشخاص البالغين المؤهلين قانوناً لشراء وتداول قطع غيار المركبات، ولا نجمع بيانات شخصية عن عمد من أي شخص يقل عمره عن 18 عاماً.",
 
       priv_sec9_title: "9. قنوات التواصل ومسؤول حماية البيانات",
       priv_sec9_p: "إذا كانت لديك أي استفسارات أو ملاحظات حول خصوصية بياناتك أو ترغب بممارسة حقوقك، تواصل معنا عبر:",
-      priv_contact_email: "البريد الإلكتروني: support@car25.app / privacy@car25.app",
+      priv_contact_email: "البريد الإلكتروني: mh.data2020@gmail.com",
       priv_contact_app: "التطبيق: Car25 لنظام Android (متجر Google Play)",
       priv_contact_dev: "المطور: فريق CodeB",
 
@@ -557,7 +557,7 @@ Confirmed Irreversible: YES
 ----------------------------------------
 Please proceed with deleting my Car25 account and scrubbing my associated personal data in accordance with Google Play Store User Data & Account Deletion policies.`;
 
-    const mailtoUrl = `mailto:support@car25.app?subject=${subject}&body=${encodeURIComponent(bodyText)}`;
+    const mailtoUrl = `mailto:mh.data2020@gmail.com?subject=${subject}&body=${encodeURIComponent(bodyText)}`;
 
     // Show feedback
     formFeedback.className = 'form-feedback success';
