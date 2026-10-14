@@ -440,60 +440,6 @@
             </div>
           </section>
 
-          <!-- 4. Interactive Web Deletion Request Form -->
-          <section id="del-form" class="request-form-card">
-            <div class="card-title-group" style="border-color: var(--danger-border);">
-              <div class="card-icon danger">
-                <svg fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/></svg>
-              </div>
-              <div>
-                <h3 class="card-title" data-i18n="del_card4_title">الطريقة الثانية: تقديم طلب حذف الحساب عبر هذا الموقع</h3>
-                <p style="margin: 0; font-size: 0.88rem; color: var(--text-muted);" data-i18n="del_card4_desc">في حال قمت بإلغاء تثبيت التطبيق أو واجهت صعوبة في الدخول، يمكنك تعبئة النموذج الرسمي أدناه لمعالجة طلبك فوراً من قبل فريق الخصوصية:</p>
-              </div>
-            </div>
-
-            <form id="delete-request-form">
-              <div class="form-group">
-                <label class="form-label" for="req-name" data-i18n="form_name_label">الاسم الكامل المسجل</label>
-                <input class="form-input" type="text" id="req-name" placeholder="أدخل اسمك المسجل في التطبيق" data-i18n="form_name_placeholder">
-              </div>
-
-              <div class="form-group">
-                <label class="form-label" for="req-email" data-i18n="form_email_label">البريد الإلكتروني المسجل في الحساب *</label>
-                <input class="form-input" type="email" id="req-email" required placeholder="مثال: user@example.com" data-i18n="form_email_placeholder">
-              </div>
-
-              <div class="form-group">
-                <label class="form-label" for="req-phone" data-i18n="form_phone_label">رقم الهاتف المسجل</label>
-                <input class="form-input" type="tel" id="req-phone" placeholder="مثال: +966 / +20 ..." data-i18n="form_phone_placeholder">
-              </div>
-
-              <div class="form-group">
-                <label class="form-label" for="req-reason" data-i18n="form_reason_label">سبب طلب حذف الحساب (اختياري)</label>
-                <textarea class="form-textarea" id="req-reason" placeholder="أخبرنا بالسبب (مثل: بيع السيارة، عدم الحاجة لقطع غيار، تكرار الحساب...)" data-i18n="form_reason_placeholder"></textarea>
-              </div>
-
-              <div class="form-group">
-                <label class="form-checkbox-label">
-                  <input class="form-checkbox" type="checkbox" id="req-confirm" required>
-                  <span data-i18n="form_confirm_checkbox">أقر بأنني على علم بأن هذا الإجراء نهائي ولا يمكن التراجع عنه وسيترتب عليه حذف حسابي وبياناتي الشخصية وفق سياسة الاحتفاظ الموضحة.</span>
-                </label>
-              </div>
-
-              <div class="form-actions">
-                <button type="submit" class="btn btn-danger">
-                  <svg fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
-                  <span data-i18n="form_btn_submit">إنشاء تذكرة الحذف وإرسالها عبر البريد</span>
-                </button>
-                <button type="button" id="btn-copy-request" class="btn btn-outline" style="display: none;">
-                  <svg fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"/></svg>
-                  <span data-i18n="form_btn_copy">نسخ نص الطلب للحافظة</span>
-                </button>
-              </div>
-
-              <div id="form-feedback" class="form-feedback"></div>
-            </form>
-          </section>
 
           <!-- 5. Deletion FAQ -->
           <section id="del-faq" class="policy-card">
